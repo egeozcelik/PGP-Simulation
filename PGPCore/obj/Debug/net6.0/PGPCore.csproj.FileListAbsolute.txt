@@ -1,0 +1,12 @@
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.csproj.AssemblyReference.cache
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.AssemblyInfoInputs.cache
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.AssemblyInfo.cs
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.csproj.CoreCompileInputs.cache
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/bin/Debug/net6.0/PGPCore.deps.json
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/bin/Debug/net6.0/PGPCore.dll
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/bin/Debug/net6.0/PGPCore.pdb
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.dll
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/refint/PGPCore.dll
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/PGPCore.pdb
+/Users/egeozcelik/Documents/Development/Full-Stack/PGP/PGPCore/obj/Debug/net6.0/ref/PGPCore.dll

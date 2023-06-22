@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGP", "PGP\PGP.csproj", "{2A20D34C-F09A-40D1-9473-BE07BB1EC293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGPCore", "PGPCore\PGPCore.csproj", "{F54F8973-1728-4F97-8696-D73C261E4549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A20D34C-F09A-40D1-9473-BE07BB1EC293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A20D34C-F09A-40D1-9473-BE07BB1EC293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A20D34C-F09A-40D1-9473-BE07BB1EC293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A20D34C-F09A-40D1-9473-BE07BB1EC293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54F8973-1728-4F97-8696-D73C261E4549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54F8973-1728-4F97-8696-D73C261E4549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54F8973-1728-4F97-8696-D73C261E4549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54F8973-1728-4F97-8696-D73C261E4549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
