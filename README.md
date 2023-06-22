@@ -1,5 +1,5 @@
 # PGP-Simulation
-##RSAEncryption sınıfı:
+## RSAEncryption sınıfı:
 
 GenerateSymmetricKey metodu, 256 bitlik bir simetrik anahtar üretir.
 GenerateRSAKeyPair metodu, 2048 bitlik bir RSA anahtar çifti üretir.
@@ -7,15 +7,15 @@ SavePrivateKey metodu, özel anahtarı PEM formatında belirtilen dosyaya kayded
 SavePublicKey metodu, genel anahtarı PEM formatında belirtilen dosyaya kaydeder.
 Hashing sınıfı:
 
-##Hashing Sınıfı
+## Hashing Sınıfı
 ComputeHash metodu, belirtilen metni SHA-256 algoritmasıyla karma (hash) değerine dönüştürür.
 AESEncryption sınıfı:
 
-##AESEncryption Sınıfı
+## AESEncryption Sınıfı
 EncryptText metodu, belirtilen metni simetrik bir anahtar kullanarak AES algoritmasıyla şifreler.
 DecryptText metodu, şifreli metni simetrik bir anahtar kullanarak AES algoritmasıyla çözer.
 
-##Program.cs dosyası:
+## Program.cs dosyası:
 
 Kullanıcıdan bir metin alır.
 Metni karma (hash) değerine dönüştürür.
